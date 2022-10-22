@@ -267,6 +267,207 @@ body {
 .benefit-box-grey {
     background-color: #F7F7F7!important;
 }
+.pricing .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    height: 716px;/
+}
+.pricing-title {
+    margin-top: 100px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 36px;
+    color: #000000;
+}
+.pricing-boxes {
+    display: flex;
+    align-items: center;
+}
+.pricing-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid;
+    border-radius: 18px;
+    box-shadow: 5px 10px 27px #07ACE629;
+    position: relative;
+}
+.pricing-box-1 , .pricing-box-3 {
+    width: 372px;
+    height: 461px;
+}
+.pricing-box-2 {
+    width: 405px;
+    height: 500px;
+    margin: 0 58px 0 58px;
+    color: #07ACE6;
+}
+.pricing-box-1 {
+    color: #FB3B64;
+}
+.pricing-box-3 {
+    color: #55DFB4;
+}
+.pricing-box-title {
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    margin-top: 34px;
+    color: #000000;
+}
+.pricing-box-price {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 46px;
+    margin-top: 14px;
+}
+.pricing-box-details-lists {
+    margin-top: 69px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    color: #000000;
+}
+.pricing-box-details-list-checkmark li, .pricing-box-details-list-x li {
+    margin-bottom: 20px;
+    list-style: none;
+}
+
+.pricing-box-details-list-checkmark li::before, .pricing-box-details-list-x li::before {
+    content: "";
+    display: inline-block;
+    height: 11px;
+    width: 11px;
+    margin-right: 10px;
+}
+.pricing-box-details-list-checkmark li::before {
+    background-image: url("../assets/Ckechmark-1.svg");
+}
+.pricing-box-details-list-x li::before {
+    background-image: url("../assets/Close.svg");
+}
+.pricing-button {
+    position: absolute;
+    top:95%;
+    width: 150px;
+    height: 50px;
+    border-radius: 23px;
+    color:#FFFFFF;
+    border: none;
+}
+.button-red {
+    background-color: #EB476E;
+}
+.button-blue {
+    background-color: #07ACE6;
+}
+.button-green {
+    background-color: #55DFB4;
+}
+.contact .container {
+    display: flex;
+    justify-content: center;
+    height: 590px;
+    margin-top: 155px;
+}
+.contact-left , .contact-right {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.contact-title {
+    font-family: 'Raleway', sans-serif;
+    font-size: 49px;
+    width: 342px;
+}
+.contact-details {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    margin-top: 22px;
+    position: relative;
+}
+.contact-left-box ul {
+    margin-top: 42px;
+}
+.contact-left-box ul li {
+    display: inline;
+    font-size: 16px;
+    color: #A5A5A5;
+}
+.contact-left-box ul li::before {
+    content: "";
+    display: inline-block;
+    height: 27px;
+    width: 27px;
+    margin-right: 4px;
+    margin-block-end: -9px;
+}
+.contact-left-box ul .contact-mail::before {
+    background-image: url("../assets/Mail Icon.svg");
+}
+.contact-left-box ul .contact-telephone::before {
+    background-image: url("../assets/Phone Icon.svg");
+}
+.contact-right {
+    display: flex;
+    flex-direction: column;
+    width: 440px;
+}
+.contact-title-right {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+    color: #08A6E4;
+    letter-spacing: 3.28px;
+}
+.contact-name-input {
+    margin: 10px 0 10px 0;
+    border: none;
+    border-bottom: .5px solid #707070;
+}
+.contact-form-checkbox-label {
+    display: flex;
+}
+.contact-form-checkbox-label-text {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+    color: #707070;
+    width: 405px;
+    height: 108px;
+}
+.contact-form-checkbox {
+    width: 0;
+    height: 0;
+    display: inline-block;
+    margin-right: 25px;
+}
+.contact-form-checkbox::after {
+    display: inline-block;
+    content: "";
+    width: 18px;
+    height: 18px;
+    border: 1px solid #95989A;
+    border-radius: 4px;
+}
+.contact-form-checkbox:checked::after {
+    background-image: url('../assets/Checkmark.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.contact-button-blue {
+    width: 226px;
+    height: 57px;
+    color: #FFFFFF;
+    font-size: 13px;
+    box-shadow: 5px 10px 14px #07ACE629;
+    border-radius: 35px;
+    border: none;
+    background-color: #08A6E4;
+    float: right;
+    margin-left: 50%;
+}
+
+
+
+
+
 
 
 
