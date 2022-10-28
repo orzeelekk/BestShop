@@ -1,0 +1,52 @@
+.statistics {
+  height: 531px;
+}
+.statistics-title {
+  font-family: 'Raleway', sans-serif;
+  font-size: 36px;
+  color: #000000;
+  text-align: center;
+  margin-top: 100px;
+}
+.container .statistics-boxes {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 101px;
+}
+.box-kolo {
+  height: 62px;
+  width: 62px;
+  border-radius: 50%;
+  z-index: -1;
+  position: relative;
+}
+.box-kolo1 {
+  background: #FB3B64;
+}
+.box-kolo2 {
+  background-color: #08A6E4;
+}
+.box-kolo3 {
+  background-color: #55DFB4;
+}
+.box-photo {
+  position: absolute;
+  left: 25px;
+  top:12px
+}
+.box-photo1 {
+  left: 40px;
+  top: 9px
+}
+.box-h4 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 800;
+  font-size: 20px;
+  margin: 13px 0 19px 0;
+}
+.box-p {
+  font-family: 'Raleway', sans-serif;
+  color: #A5A5A5;
+  font-size: 17px;
+  text-align: center;
+}
