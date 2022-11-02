@@ -1,52 +1,76 @@
 .statistics {
-  height: 531px;
-}
-.statistics-title {
-  font-family: 'Raleway', sans-serif;
-  font-size: 36px;
-  color: #000000;
-  text-align: center;
   margin-top: 100px;
+  @include mobile {
+    height: auto;
+  }
 }
-.container .statistics-boxes {
+h2 {
+  font-family: $font-raleway;
+  font-size: 2.25rem;
+  text-align: center;
+  @include mobile {
+    margin-top: 50px
+  }
+}
+.statistics_container {
   display: flex;
-  justify-content: space-evenly;
-  margin-top: 101px;
+  max-width: 800px;
+  justify-content: space-between;
+  margin: 101px auto 120px;
+  @include mobile {
+    margin: 35px auto 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
 }
-.box-kolo {
+.statistics_single {
+  max-width: 160px;
+  display: flex;
+  flex-direction: column;
+  justify-items: flex-start;
+  align-items: center;
+  text-align: center;
+}
+.statistics_circle {
   height: 62px;
   width: 62px;
   border-radius: 50%;
-  z-index: -1;
   position: relative;
 }
-.box-kolo1 {
-  background: #FB3B64;
-}
-.box-kolo2 {
-  background-color: #08A6E4;
-}
-.box-kolo3 {
-  background-color: #55DFB4;
-}
-.box-photo {
+.statistics_img {
   position: absolute;
-  left: 25px;
-  top:12px
 }
-.box-photo1 {
-  left: 40px;
-  top: 9px
+.statistics_single:nth-child(1) .statistics_circle {
+  background-color: $color-redish;
 }
-.box-h4 {
-  font-family: 'Raleway', sans-serif;
+.statistics_single:nth-child(1) .statistics_img {
+  top:1px;
+  left:45%;
+}
+.statistics_single:nth-child(2) .statistics_circle {
+  background-color: $color-primary;
+}
+.statistics_single:nth-child(2) .statistics_img {
+  top:14px;
+  left:47%;
+}
+.statistics_single:nth-child(3) .statistics_circle {
+  background-color: $color-green;
+}
+.statistics_single:nth-child(3) .statistics_img {
+  top:6px;
+  left:50%;
+}
+
+.statistics_number {
   font-weight: 800;
-  font-size: 20px;
-  margin: 13px 0 19px 0;
+  font-size: 1.25rem;
+  margin-top: 13px;
+  letter-spacing: 0.1875rem;
 }
-.box-p {
-  font-family: 'Raleway', sans-serif;
-  color: #A5A5A5;
-  font-size: 17px;
-  text-align: center;
+.statistics_description {
+  color: $color-grey;
+  font-size: 1.0625rem;
+  margin-top: 19px;
 }

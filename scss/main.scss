@@ -1,8 +1,10 @@
 @import "misc/reset";
 
+@import "general/index";
+@import "elements/logo";
 @import "general/typography";
 
-@import "blocks/banner";
+@import "blocks/opening";
 @import "blocks/benefits";
 @import "blocks/contact";
 @import "blocks/footer";

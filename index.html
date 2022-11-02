@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&family=Raleway:wght@300;400;700;800&display=swap" rel="stylesheet">
@@ -10,197 +11,218 @@
 </head>
 <body>
     <header class="header">
-        <div class="container">
-            <div class="logo">
-                <span class="logo-BestShop">BestShop</span>
-            </div>
+        <div class="header_container container">
+                <a href="#" class="logo-BestShop">BestShop</a>
             <nav>
-                <ul class="nav-list">
-                    <li>
-                        <a class="nav-list-link" href="why_us">WHY US</a>
+                <input type="checkbox" class="menu_btn" id="menu_btn">
+                <label for="menu_btn" class="menu_toggle">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </label>
+                <ul class="header_nav">
+                    <li class="nav_element">
+                        <a class="nav-list-link" href="#why_us">WHY US</a>
                     </li>
-                    <li>
-                        <a class="nav-list-link" href="benefits">BENEFITS</a>
+                    <li class="nav_element">
+                        <a class="nav-list-link" href="#benefits">BENEFITS</a>
                     </li>
-                    <li>
-                        <a class="nav-list-link" href="prices">PRICES</a>
+                    <li class="nav_element">
+                        <a class="nav-list-link" href="#prices">PRICES</a>
                     </li>
-                    <li>
-                        <a class="nav-list-link" href="contact">CONTACT</a>
+                    <li class="nav_element">
+                        <a class="nav-list-link" href="#contact">CONTACT</a>
                     </li>
                 </ul>
             </nav>
         </div>
     </header>
-    <section class="banner">
-        <div class="container">
-            <h1 class="banner-title">Sell More!</h1>
-            <p class="banner-text">Open shop on our platform and increase your sales</p>
+    <section class="opening">
+        <div class="opening_content">
+            <h1 class="opening_header">Sell More!</h1>
+            <p class="opening_heading">Open shop on our platform and increase your sales</p>
             <div class="banner-button">
-                <button class="banner-button-open">Open your shop</button>
+                <button class="btn btn--primary btn--large">Open your shop</button>
             </div>
-            <img class="banner-photo" src="assets/Background.png" alt="komputer i paluszki">
+            <img class="opening_image" src="assets/Background.png" alt="komputer i paluszki">
         </div>
     </section>
     <section class="statistics">
         <div class="container">
-            <h2 class="statistics-title">The most popular sales platform in country</h2>
-            <div class="statistics-boxes">
-                <article class="statistics-box">
-                    <div class="box-kolo box-kolo1">
-                        <img class="box-photo box-photo1" src="assets/Person.svg" alt="photo1">
+            <h2>The most popular sales platform in country</h2>
+            <div class="statistics_container">
+
+                <div class="statistics_single">
+                    <div class="statistics_circle">
+                        <img class="statistics_img" src="assets/Person.svg" alt="photo1">
                     </div>
-                    <h4 class="box-h4">100000+</h4>
-                    <p class="box-p">daily entries</p>
-                </article>
-                <article class="statistics-box">
-                    <div class="box-kolo box-kolo2">
-                        <img class="box-photo" src="assets/Eye.svg" alt="photo1">
+                    <div class="statistics_number">100000+</div>
+                    <p class="statistics_description">daily entries</p>
+                </div>
+
+                <div class="statistics_single">
+                    <div class="statistics_circle">
+                        <img class="statistics_img" src="assets/Eye.svg" alt="photo1">
                     </div>
-                    <h4 class="box-h4">2000000+</h4>
-                    <p class="box-p">seen products</p><p class="box-p">every day</p>
-                </article>
-                <article class="statistics-box">
-                    <div class="box-kolo box-kolo3">
-                        <img class="box-photo" src="assets/Catalog.svg" alt="photo1">
+                    <div class="statistics_number">2000000+</div>
+                    <p class="statistics_description">seen products <br>every day</p>
+                </div>
+
+                <div class="statistics_single">
+                    <div class="statistics_circle">
+                        <img class="statistics_img" src="assets/Catalog.svg" alt="photo1">
                     </div>
-                    <h4 class="box-h4">10000+</h4>
-                    <p class="box-p">added posts daily</p>
-                </article>
+                    <div class="statistics_number">10000+</div>
+                    <p class="statistics_description">added posts <br>daily</p>
+                </div>
             </div>
         </div>
     </section>
     <main class="benefits">
-        <div class="container">
-            <div class="benefits-boxy">
-                <div class="benefits-box">
-                    <div class="benefits-boxy-lewo">
-                        <h4 class="benefits-boxy-title">Be always first</h4>
-                        <p class="benefits-boxy-p">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
-                        <div class="benefits-boxy-element benefits-boxy-element1"></div>
+        <div class="benefits_container container">
+
+            <div class="benefits_single benefits_single_notebook">
+                <div class="benefits_text">
+                        <h2 class="benefits_title">Be always first</h2>
+                        <p class="benefits_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
                     </div>
-                    <div class="benefits-boxy-prawo">
+                    <div class="benefits_image">
                         <img class="benefits-photo1" src="assets/Macbook.png">
-                        <div class="benefits-figures benefits-figure1"></div>
                     </div>
                 </div>
-                <div class="benefits-box benefits-box-alternative">
-                    <div class="benefits-boxy-lewo">
-                        <h4 class="benefits-boxy-title">Your shop is where you are!</h4>
-                        <p class="benefits-boxy-p">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
-                        <div class="benefits-boxy-element benefits-boxy-element2"></div>
+
+                <div class="benefits_single benefits_single_phone">
+                    <div class="benefits_text">
+                        <h2 class="benefits_title">Your shop is <br>where you are!</h2>
+                        <p class="benefits_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
                     </div>
-                    <div class="benefits-boxy-prawo">
+                    <div class="benefits_image">
                         <img class="benefits-photo2" src="assets/iPhone.png">
-                        <div class="benefits-figures benefits-figure2"></div>
                     </div>
                 </div>
-                <div class="benefits-box benefit-box-grey">
-                    <div class="benefits-boxy-lewo-alternative">
-                        <h4 class="benefits-boxy-title">Increase recognition your brand!</h4>
-                        <p class="benefits-boxy-p">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
-                        <div class="benefits-boxy-element benefits-boxy-element3"></div>
+
+                <div class="benefits_double">
+                    <div class="benefits_single benefits_single_solo">
+                        <div class="benefits_text">
+                            <h2 class="benefits_title">Increase recognition your brand!</h2>
+                            <p class="benefits_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+                        </div>
                     </div>
-                    <div class="benefits-boxy-prawo">
+
+                    <div class="benefits_single benefits_single_image">
                         <img class="benefits-photo3" src="assets/Trumpet.png">
-                        <div class="benefits-figures benefits-figure3"></div>
                     </div>
                 </div>
             </div>
         </div>
     </main>
-    <section class="pricing">
-        <div class="container">
-            <h2 class="pricing-title">Pricing</h2>
-            <div class="pricing-boxes">
-                <div class="pricing-box pricing-box-1">
-                    <h4 class="pricing-box-title">Basic</h4>
-                    <h3 class="pricing-box-price">$0</h3>
-                        <ul class="pricing-box-details-lists">
-                            <ul class="pricing-box-details-list-checkmark">
-                                <li>100 MB HDD</li>
-                                <li>1 Subdomain</li>
-                                <li>2 E-mails</li>
-                            </ul>
-                            <ul class="pricing-box-details-list-x">
-                                <li>Two years license</li>
-                                <li>Full support</li>
-                            </ul>
+    <section class="pricing container">
+            <h2>Pricing</h2>
+            <div class="pricing_boxes">
+
+                <div class="pricing_box pricing_box_basic">
+                    <div class="pricing_details">
+                        <h4 class="pricing_type">Basic</h4>
+                        <h3 class="pricing_price">$0</h3>
+                    </div>
+                        <ul class="pricing_items">
+                            <li class="pricing_item">100 MB HDD</li>
+                            <li class="pricing_item">1 Subdomain</li>
+                            <li class="pricing_item">2 E-mails</li>
+                            <li class="pricing_item pricing_item_not">Two years license</li>
+                            <li class="pricing_item pricing_item_not">Full support</li>
                         </ul>
-                        <button class="pricing-button button-red">Begin</button>
+                        <a href="#" class="btn">Begin</a>
                 </div>
-                <div class="pricing-box pricing-box-2">
-                    <h4 class="pricing-box-title">Basic</h4>
-                    <h3 class="pricing-box-price">$0</h3>
-                        <ul class="pricing-box-details-lists">
-                            <ul class="pricing-box-details-list-checkmark">
-                                <li>100 MB HDD</li>
-                                <li>1 Subdomain</li>
-                                <li>2 E-mails</li>
-                            </ul>
-                            <ul class="pricing-box-details-list-x">
-                                <li>Two years license</li>
-                                <li>Full support</li>
-                            </ul>
+                <div class="pricing_box pricing_box_profesional">
+                    <div class="pricing_details">
+                        <h4 class="pricing_type">Basic</h4>
+                        <h3 class="pricing_price">$0</h3>
+                    </div>
+                        <ul class="pricing_items">
+                            <li class="pricing_item">100 MB HDD</li>
+                            <li class="pricing_item">1 Subdomain</li>
+                            <li class="pricing_item">2 E-mails</li>
+                            <li class="pricing_item">Two years license</li>
+                            <li class="pricing_item pricing_item_not">Full support</li>
                         </ul>
-                        <button class="pricing-button button-blue">Begin</button>
+                        <a href="#" class="btn btn--primary">Begin</a>
                 </div>
-                <div class="pricing-box pricing-box-3">
-                    <h4 class="pricing-box-title">Basic</h4>
-                    <h3 class="pricing-box-price">$0</h3>
-                        <ul class="pricing-box-details-lists">
-                            <ul class="pricing-box-details-list-checkmark">
-                                <li>100 MB HDD</li>
-                                <li>1 Subdomain</li>
-                                <li>2 E-mails</li>
-                            </ul>
-                            <ul class="pricing-box-details-list-x">
-                                <li>Two years license</li>
-                                <li>Full support</li>
-                            </ul>
+                <div class="pricing_box pricing_box_premium">
+                    <div class="pricing_details">
+                        <h4 class="pricing_type">Basic</h4>
+                        <h3 class="pricing_price">$0</h3>
+                    </div>
+                        <ul class="pricing_items">
+                            <li class="pricing_item">100 MB HDD</li>
+                            <li class="pricing_item">1 Subdomain</li>
+                            <li class="pricing_item">2 E-mails</li>
+                            <li class="pricing_item">Two years license</li>
+                            <li class="pricing_item">Full support</li>
                         </ul>
-                        <button class="pricing-button button-green">Begin</button>
+                        <a href="#" class="btn">Begin</a>
                 </div>
+
             </div>
         </div>
     </section>
-    <section class="contact">
-        <div class="container">
-            <div class="contact-left">
-                <h2 class="contact-title">Any questions?</h2>
-                <p class="contact-details">Leave your email address or call us!</p>
-                <div class="contact-left-box">
-                    <ul>
-                        <li class="contact-mail">info@bestshop.xyz</li>
-                        <li class="contact-telephone">123 456 789</li>
-                    </ul>
+    <section class="contact container" id="contact">
+            <div class="contact_column">
+                <h2 class="contact_title">Any questions?</h2>
+                <p class="contact_instruction">Leave your email address or call us!</p>
+                <div class="contact_details">
+                    <a href="mailto:info@bestshop.xyz" class="details_item">
+                        <img src="assets/Mail%20Icon.svg" alt="mail"/>
+                        info@bestshop.xyz
+                    </a>
+
+                    <a href="tel:123456789" class="details_item">
+                        <img src="assets/Phone%20Icon.svg" alt="phone">
+                        123 456 789
+                    </a>
                 </div>
             </div>
-            <div class="contact-right">
-                <p class="contact-title-right">NAME</p>
-                <input class="contact-name-input">
-                <p class="contact-title-right">EMAIL</p>
-                <input class="contact-name-input">
-                <label class="contact-form-checkbox-label">
-                    <input class="contact-form-checkbox" type="checkbox"/>
-                    <span class="contact-form-checkbox-label-text">I hereby give consent for my personal data included in my application to be processed for the purposes of the recruitment process under the European Parliament’s and Council of the European Union Regulation on the Protection of Natural Persons as of 27 April 2016, with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (Data Protection Directive)</span>
-                </label>
-                <button class="contact-button-blue" type="submit">Send</button>
+            <div class="contact_column">
+                <form class="form">
+                    <div class="form_field">
+                        <label class="form_label" for="name">Name</label>
+                        <input type="text" class="form_input Name" id="name"/>
+                    </div>
+                    <div class="form_field">
+                        <label class="form_label" for="email">E-mail</label>
+                        <input type="email" class="form_input email" id="email"/>
+                    </div>
+
+                    <div class="form_consent">
+                        <label class="form_checkbox">
+                            <input type="checkbox">
+                            <span class="checkbox"></span>
+                            <p class="consent_text">
+                                I hereby give consent for my personal data included in my
+                                application to be processed for the purposes of the recruitment
+                                process under the European Parliament’s and Council of the
+                                European Union Regulation on the Protection of Natural Persons as
+                                of 27 April 2016, with regard to the processing of personal data
+                                and on the free movement of such data, and repealing Directive
+                                95/46/EC (Data Protection Directive)
+                            </p>
+                        </label>
+                    </div>
+                    <button type="submit" class="btn btn--primary">Send</button>
+                </form>
             </div>
-        </div>
     </section>
-    <footer>
-        <div class="container">
-            <div class="footer-left">
-                <span class="logo-BestShop">BestShop</span>
-                <p class="footer-p">© 2019 BestShop LTD, All Rights Reserved</p>
+    <footer class="footer">
+        <div class="footer_container container">
+            <div class="footer_info">
+                <a href="#" class="logo-BestShop">BestShop</a>
+                <span class="footer_copy">© 2019 BestShop LTD, All Rights Reserved</span>
             </div>
-            <div class="footer-right">
-                <div class="twitter"></div>
-                <div class="facebook"></div>
+            <div class="footer_icons">
+                <a href="#"><img src="assets/Twitter.svg" alt="twitter"/></a>
+                <a href="#"><img src="assets/Facebook.svg" alt="facebook"/></a>
             </div>
         </div>
     </footer>
-
 </body>
 </html>

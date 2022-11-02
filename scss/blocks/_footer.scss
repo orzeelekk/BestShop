@@ -1,34 +1,25 @@
 
-
-footer {
-  width: 100%;
-  background-color: #F7F7F7;
+.footer {
   box-shadow: 0 -5px 40px #00000029;
-}
-footer .container {
-  height: 89px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-.footer-p {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 11px;
-  color: #A5A5A5;
-  margin-top: 7px;
-}
-.footer-right {
-  display: flex;
-}
+  padding: 20px 0;
 
-.twitter {
-  background-image: url("../assets/Twitter.svg");
-  height: 24px;
-  width: 24px;
-}
-.facebook {
-  background-image: url("../assets/Facebook.svg");
-  height: 24px;
-  width: 24px;
-  margin-left:20px
+  &_container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  &_info {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+  }
+  &_copy {
+    color: $color-grey;
+    font-size: 0.6875rem;
+    line-height: 1.5rem;
+    margin-top: 7px;
+  }
+  &_icons a:first-of-type {
+    margin-right: 25px;
+  }
 }
