@@ -1,4 +1,4 @@
-4370
+4371
 72/home/orzelekk/Codersy/BestShop/node_modules/to-regex-range/package.json1666949224274707074 0
 62/home/orzelekk/Codersy/BestShop/node_modules/readdirp/index.js1666949224314706436 0
 63/home/orzelekk/Codersy/BestShop/node_modules/readdirp/README.md1666949224570702353 0
@@ -1045,7 +1045,6 @@
 114/home/orzelekk/Codersy/BestShop/node_modules/@parcel/package-manager/test/fixtures/has-foo/subpackage/package.json1666949226154677093 0
 101/home/orzelekk/Codersy/BestShop/node_modules/@parcel/package-manager/test/fixtures/has-foo/subpackage1666949226154677093 1
 90/home/orzelekk/Codersy/BestShop/node_modules/@parcel/package-manager/test/fixtures/has-foo1666949226150677158 1
-102/home/orzelekk/Codersy/BestShop/node_modules/@parcel/package-manager/test/fixtures/packages/a/index.js1666949225930680664 0
 76/home/orzelekk/Codersy/BestShop/node_modules/svgo/lib/svgo/css-class-list.js1666949225958680219 0
 93/home/orzelekk/Codersy/BestShop/node_modules/@parcel/package-manager/test/fixtures/packages/a1666949226154677093 1
 79/home/orzelekk/Codersy/BestShop/node_modules/@parcel/core/lib/serializerCore.js1666949226502671545 0
@@ -1278,9 +1277,6 @@
 79/home/orzelekk/Codersy/BestShop/node_modules/svgo/plugins/convertShapeToPath.js1666949225930680664 0
 76/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/regions/SA.js1666949226722668038 0
 76/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/regions/JO.js1666949226638669378 0
-60/home/orzelekk/Codersy/BestShop/node_modules/tslib/README.md1666949225650685130 0
-75/home/orzelekk/Codersy/BestShop/node_modules/@parcel/core/src/Dependency.js1666949226206676264 0
-62/home/orzelekk/Codersy/BestShop/node_modules/yaml/dist/util.js1666949226090678113 0
 69/home/orzelekk/Codersy/BestShop/node_modules/yaml/dist/test-events.js1666949226062678560 0
 70/home/orzelekk/Codersy/BestShop/node_modules/dotenv-expand/lib/main.js1666949225534686980 0
 78/home/orzelekk/Codersy/BestShop/node_modules/@parcel/core/lib/applyRuntimes.js1666949225930680664 0
@@ -1382,7 +1378,7 @@
 87/home/orzelekk/Codersy/BestShop/node_modules/@parcel/core/test/PublicDependency.test.js1666949226470672055 0
 65/home/orzelekk/Codersy/BestShop/node_modules/browserslist/LICENSE1666949224310706500 0
 78/home/orzelekk/Codersy/BestShop/node_modules/@parcel/core/test/fixtures/parcel1666949226818666508 1
-57/home/orzelekk/Codersy/BestShop/scss/blocks/_opening.scss1667389564537662706 0
+57/home/orzelekk/Codersy/BestShop/scss/blocks/_opening.scss1667573213816856406 0
 129/home/orzelekk/Codersy/BestShop/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-browser-alias/nested.js1666949226438672566 0
 68/home/orzelekk/Codersy/BestShop/node_modules/browserslist/browser.js1666949224330706181 0
 75/home/orzelekk/Codersy/BestShop/node_modules/htmlparser2/lib/index.d.ts.map1666949225666684875 0
@@ -1450,7 +1446,7 @@
 79/home/orzelekk/Codersy/BestShop/node_modules/@parcel/core/lib/resolveOptions.js1666949226490671737 0
 92/home/orzelekk/Codersy/BestShop/node_modules/@parcel/core/test/fixtures/plugins/node_modules1666949226322674415 1
 60/home/orzelekk/Codersy/BestShop/node_modules/lmdb/index.d.ts1666949226562670589 0
-59/home/orzelekk/Codersy/BestShop/dist/Checkmark.c57fbd17.svg1667408177466905259 0
+59/home/orzelekk/Codersy/BestShop/dist/Checkmark.c57fbd17.svg1667663045255774718 0
 87/home/orzelekk/Codersy/BestShop/node_modules/css-select/lib/pseudo-selectors/index.d.ts1666949225962680155 0
 101/home/orzelekk/Codersy/BestShop/node_modules/@swc/helpers/lib/_create_for_of_iterator_helper_loose.js1666949225942680474 0
 64/home/orzelekk/Codersy/BestShop/node_modules/immutable/README.md1666949225922680792 0
@@ -1626,7 +1622,7 @@
 81/home/orzelekk/Codersy/BestShop/node_modules/@parcel/package-manager/src/index.js1666949225746683599 0
 93/home/orzelekk/Codersy/BestShop/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb1666949226566670525 1
 65/home/orzelekk/Codersy/BestShop/node_modules/resolve-from/license1666949224358705734 0
-57/home/orzelekk/Codersy/BestShop/dist/Trumpet.041da3b3.png1667406115720008693 0
+57/home/orzelekk/Codersy/BestShop/dist/Trumpet.041da3b3.png1667663045267774450 0
 58/home/orzelekk/Codersy/BestShop/node_modules/clone/LICENSE1666949224562702480 0
 78/home/orzelekk/Codersy/BestShop/node_modules/@parcel/reporter-cli/src/emoji.js1666949225822682387 0
 85/home/orzelekk/Codersy/BestShop/node_modules/node-gyp-build-optional-packages/LICENSE1666949224310706500 0
@@ -1738,7 +1734,7 @@
 87/home/orzelekk/Codersy/BestShop/node_modules/@parcel/core/test/fixtures/parcel/index.js1666949226298674798 0
 104/home/orzelekk/Codersy/BestShop/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/mdb_drop.c1666949226090678113 0
 88/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/features/dispatchevent.js1666949226578670334 0
-60/home/orzelekk/Codersy/BestShop/scss/blocks/_statistics.scss1667390948776275601 0
+60/home/orzelekk/Codersy/BestShop/scss/blocks/_statistics.scss1667573782864885204 0
 70/home/orzelekk/Codersy/BestShop/node_modules/htmlparser2/lib/Parser.js1666949224594701970 0
 79/home/orzelekk/Codersy/BestShop/node_modules/@swc/helpers/src/_to_primitive.mjs1666949226406673076 0
 88/home/orzelekk/Codersy/BestShop/node_modules/@parcel/transformer-js/src/JSTransformer.js1666949225754683471 0
@@ -1782,14 +1778,14 @@
 76/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/regions/BW.js1666949226170676838 0
 77/home/orzelekk/Codersy/BestShop/node_modules/cosmiconfig/dist/Explorer.js.map1666949225722683981 0
 92/home/orzelekk/Codersy/BestShop/node_modules/lmdb/dependencies/lz4/lib/dll/example/README.md1666949226554670717 0
-57/home/orzelekk/Codersy/BestShop/scss/blocks/_contact.scss1667408818875912011 0
+57/home/orzelekk/Codersy/BestShop/scss/blocks/_contact.scss1667663395531969317 0
 61/home/orzelekk/Codersy/BestShop/node_modules/globals/index.js1666949224318706372 0
 83/home/orzelekk/Codersy/BestShop/node_modules/cosmiconfig/dist/ExplorerBase.d.ts.map1666949225730683854 0
 94/home/orzelekk/Codersy/BestShop/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/module.h1666949226498671609 0
 83/home/orzelekk/Codersy/BestShop/node_modules/@jridgewell/trace-mapping/package.json1666949224590702034 0
 81/home/orzelekk/Codersy/BestShop/node_modules/@parcel/diagnostic/src/diagnostic.js1666949224614701651 0
 71/home/orzelekk/Codersy/BestShop/node_modules/binary-extensions/index.js1666949224314706436 0
-58/home/orzelekk/Codersy/BestShop/scss/blocks/_benefits.scss1667401398874110368 0
+58/home/orzelekk/Codersy/BestShop/scss/blocks/_benefits.scss1667661666818479630 0
 79/home/orzelekk/Codersy/BestShop/node_modules/@parcel/graph/src/AdjacencyList.js1666949225642685257 0
 64/home/orzelekk/Codersy/BestShop/node_modules/parse-json/index.js1666949224318706372 0
 78/home/orzelekk/Codersy/BestShop/node_modules/@parcel/workers/src/WorkerFarm.js1666949226026679134 0
@@ -1805,7 +1801,9 @@
 89/home/orzelekk/Codersy/BestShop/node_modules/@jridgewell/gen-mapping/dist/gen-mapping.mjs1666949225702684301 0
 90/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/features/input-selection.js1666949226638669378 0
 77/home/orzelekk/Codersy/BestShop/node_modules/cosmiconfig/dist/readFile.js.map1666949225886681366 0
-56/home/orzelekk/Codersy/BestShop/dist/Person.e8721018.svg1667406115672009718 0
+81/home/orzelekk/Codersy/BestShop/node_modules/@jridgewell/gen-mapping/src/types.ts1666949225830682260 0
+79/home/orzelekk/Codersy/BestShop/node_modules/htmlnano/lib/modules/minifyJson.js1666949225822682387 0
+56/home/orzelekk/Codersy/BestShop/dist/Person.e8721018.svg1667663045255774718 0
 70/home/orzelekk/Codersy/BestShop/node_modules/browserslist/package.json1666949225638685321 0
 66/home/orzelekk/Codersy/BestShop/node_modules/xxhash-wasm/README.md1666949225714684109 0
 77/home/orzelekk/Codersy/BestShop/node_modules/immutable/dist/immutable.js.flow1666949224594701970 0
@@ -1817,7 +1815,7 @@
 73/home/orzelekk/Codersy/BestShop/node_modules/cosmiconfig/dist/readFile.js1666949225614685704 0
 87/home/orzelekk/Codersy/BestShop/node_modules/@parcel/runtime-react-refresh/package.json1666949224606701779 0
 91/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/features/childnode-remove.js1666949226254675499 0
-46/home/orzelekk/Codersy/BestShop/scss/main.scss1667389194661112635 0
+46/home/orzelekk/Codersy/BestShop/scss/main.scss1667571397744278330 0
 101/home/orzelekk/Codersy/BestShop/node_modules/@swc/helpers/src/_class_apply_descriptor_destructure.mjs1666949226222676009 0
 75/home/orzelekk/Codersy/BestShop/node_modules/csso/lib/clean/TypeSelector.js1666949226118677668 0
 65/home/orzelekk/Codersy/BestShop/node_modules/callsites/index.d.ts1666949224318706372 0
@@ -1831,8 +1829,8 @@
 83/home/orzelekk/Codersy/BestShop/node_modules/@parcel/core/src/public/BundleGraph.js1666949226126677540 0
 66/home/orzelekk/Codersy/BestShop/node_modules/css-tree/package.json1666949226494671673 0
 63/home/orzelekk/Codersy/BestShop/node_modules/commander/index.js1666949224610701714 0
-61/home/orzelekk/Codersy/BestShop/dist/Ckechmark-1.80ec2266.svg1667406115672009718 0
-44/home/orzelekk/Codersy/BestShop/scss/general1667386683357247135 1
+61/home/orzelekk/Codersy/BestShop/dist/Ckechmark-1.80ec2266.svg1667663045255774718 0
+44/home/orzelekk/Codersy/BestShop/scss/general1667661691669926503 1
 76/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/regions/GA.js1666949226606669888 0
 141/home/orzelekk/Codersy/BestShop/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-browser-alias/subfolder1/subfolder21666949226498671609 1
 80/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/regions/alt-an.js1666949225862681749 0
@@ -1855,7 +1853,7 @@
 86/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/features/import-maps.js1666949226630669505 0
 57/home/orzelekk/Codersy/BestShop/node_modules/lmdb/LICENSE1666949225902681111 0
 100/home/orzelekk/Codersy/BestShop/node_modules/htmlnano/docs/versioned_docs/version-1.1.1/020-usage.md1666949226226675946 0
-37/home/orzelekk/Codersy/BestShop/.idea1667408792600868660 1
+37/home/orzelekk/Codersy/BestShop/.idea1667663307497931058 1
 59/home/orzelekk/Codersy/BestShop/node_modules/normalize-path1666949224338706053 1
 74/home/orzelekk/Codersy/BestShop/node_modules/@parcel/optimizer-css/LICENSE1666949224286706883 0
 62/home/orzelekk/Codersy/BestShop/node_modules/.bin/browserslist1666949228182644768 0
@@ -1870,11 +1868,6 @@
 90/home/orzelekk/Codersy/BestShop/node_modules/@swc/helpers/src/_tagged_template_literal.mjs1666949226402673139 0
 85/home/orzelekk/Codersy/BestShop/node_modules/@parcel/reporter-cli/src/bundleReport.js1666949224550702672 0
 104/home/orzelekk/Codersy/BestShop/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/mdb_dump.11666949225958680219 0
-74/home/orzelekk/Codersy/BestShop/node_modules/@parcel/transformer-image/lib1666949224638701268 1
-94/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/features/hardwareconcurrency.js1666949226614669760 0
-72/home/orzelekk/Codersy/BestShop/node_modules/css-tree/lib/lexer/trace.js1666949226486671800 0
-78/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/features/rem.js1666949226722668038 0
-76/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/regions/BO.js1666949226142677285 0
 76/home/orzelekk/Codersy/BestShop/node_modules/@parcel/utils/src/countLines.js1666949225758683407 0
 61/home/orzelekk/Codersy/BestShop/node_modules/is-json/index.js1666949224570702353 0
 96/home/orzelekk/Codersy/BestShop/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mdb_copy.c1666949226082678241 0
@@ -1928,6 +1921,8 @@
 45/home/orzelekk/Codersy/BestShop/.idea/vcs.xml1666341835407696194 0
 76/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/regions/CM.js1666949226282675053 0
 62/home/orzelekk/Codersy/BestShop/node_modules/commander/LICENSE1666949224286706883 0
+102/home/orzelekk/Codersy/BestShop/node_modules/@parcel/package-manager/test/fixtures/packages/a/index.js1666949225930680664 0
+59/home/orzelekk/Codersy/BestShop/scss/elements/_buttons.scss1667573242232261757 0
 72/home/orzelekk/Codersy/BestShop/node_modules/svgo/plugins/removeXMLNS.js1666949226150677158 0
 63/home/orzelekk/Codersy/BestShop/node_modules/picomatch/index.js1666949224558702545 0
 88/home/orzelekk/Codersy/BestShop/node_modules/lmdb/dependencies/lz4/lib/lz4frame_static.h1666949226486671800 0
@@ -1999,6 +1994,11 @@
 68/home/orzelekk/Codersy/BestShop/node_modules/utility-types/README.md1666949225714684109 0
 72/home/orzelekk/Codersy/BestShop/node_modules/@parcel/events/lib/types.js1666949225642685257 0
 67/home/orzelekk/Codersy/BestShop/node_modules/msgpackr/dist/node.cjs1666949225578686278 0
+74/home/orzelekk/Codersy/BestShop/node_modules/@parcel/transformer-image/lib1666949224638701268 1
+94/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/features/hardwareconcurrency.js1666949226614669760 0
+72/home/orzelekk/Codersy/BestShop/node_modules/css-tree/lib/lexer/trace.js1666949226486671800 0
+78/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/features/rem.js1666949226722668038 0
+76/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/regions/BO.js1666949226142677285 0
 88/home/orzelekk/Codersy/BestShop/node_modules/lmdb/node_modules/node-addon-api/napi-inl.h1666949225758683407 0
 94/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/features/background-img-opts.js1666949226082678241 0
 106/home/orzelekk/Codersy/BestShop/node_modules/@parcel/node-resolver-core/test/fixture/packages/source-alias1666949226582670270 1
@@ -2011,7 +2011,7 @@
 64/home/orzelekk/Codersy/BestShop/node_modules/@parcel/logger/test1666949224614701651 1
 74/home/orzelekk/Codersy/BestShop/node_modules/css-select/lib/types.d.ts.map1666949225906681048 0
 57/home/orzelekk/Codersy/BestShop/node_modules/htmlnano/lib1666949225734683791 1
-55/home/orzelekk/Codersy/BestShop/dist/index.574c7455.css1667408592916269962 0
+55/home/orzelekk/Codersy/BestShop/dist/index.574c7455.css1667663395879961563 0
 69/home/orzelekk/Codersy/BestShop/node_modules/terser/tools/domprops.js1666949226122677603 0
 70/home/orzelekk/Codersy/BestShop/node_modules/@lezer/lr/dist/token.d.ts1666949225754683471 0
 68/home/orzelekk/Codersy/BestShop/node_modules/normalize-path/index.js1666949224314706436 0
@@ -2019,7 +2019,7 @@
 85/home/orzelekk/Codersy/BestShop/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb1666949226566670525 1
 63/home/orzelekk/Codersy/BestShop/node_modules/is-extglob/LICENSE1666949224338706053 0
 70/home/orzelekk/Codersy/BestShop/node_modules/@parcel/core/lib/index.js1666949226266675308 0
-57/home/orzelekk/Codersy/BestShop/dist/Catalog.8507218e.svg1667406115672009718 0
+57/home/orzelekk/Codersy/BestShop/dist/Catalog.8507218e.svg1667663045255774718 0
 107/home/orzelekk/Codersy/BestShop/node_modules/@parcel/source-map/parcel_sourcemap_wasm/dist-web/package.json1666949225970680027 0
 73/home/orzelekk/Codersy/BestShop/node_modules/@parcel/types/lib/index.d.ts1666949225702684301 0
 71/home/orzelekk/Codersy/BestShop/node_modules/picomatch/lib/picomatch.js1666949225542686852 0
@@ -2054,18 +2054,23 @@
 76/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/regions/IR.js1666949226638669378 0
 79/home/orzelekk/Codersy/BestShop/node_modules/lines-and-columns/build/index.d.ts1666949224598701906 0
 91/home/orzelekk/Codersy/BestShop/node_modules/@parcel/transformer-react-refresh-wrap/LICENSE1666949224286706883 0
-57/home/orzelekk/Codersy/BestShop/scss/blocks/_pricing.scss1667406114788028575 0
+57/home/orzelekk/Codersy/BestShop/scss/blocks/_pricing.scss1667662466400672412 0
 79/home/orzelekk/Codersy/BestShop/node_modules/htmlparser2/lib/Tokenizer.d.ts.map1666949225702684301 0
 74/home/orzelekk/Codersy/BestShop/node_modules/cosmiconfig/dist/types.js.map1666949225902681111 0
 70/home/orzelekk/Codersy/BestShop/node_modules/css-select/lib/types.d.ts1666949225982679835 0
 91/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/features/css-unicode-bidi.js1666949226550670780 0
 72/home/orzelekk/Codersy/BestShop/node_modules/lines-and-columns/README.md1666949224574702289 0
-97/home/orzelekk/Codersy/BestShop/node_modules/@babel/helper-validator-identifier/lib/identifier.js1666949224558702545 0
-98/home/orzelekk/Codersy/BestShop/node_modules/lmdb/node_modules/node-addon-api/package-support.json1666949225930680664 0
-50/home/orzelekk/Codersy/BestShop/assets/Macbook.png1576595046000000000 0
-91/home/orzelekk/Codersy/BestShop/node_modules/@parcel/core/src/requests/ValidationRequest.js1666949226558670652 0
-97/home/orzelekk/Codersy/BestShop/node_modules/@parcel/utils/test/input/sourcemap/referenced-min.js1666949226266675308 0
-80/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/features/meter.js1666949226674668803 0
+101/home/orzelekk/Codersy/BestShop/node_modules/@babel/helper-validator-identifier/lib/identifier.js.map1666949224598701906 0
+75/home/orzelekk/Codersy/BestShop/node_modules/lines-and-columns/package.json1666949224558702545 0
+73/home/orzelekk/Codersy/BestShop/node_modules/@parcel/transformer-posthtml1666949224638701268 1
+83/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/features/css-grid.js1666949226466672120 0
+61/home/orzelekk/Codersy/BestShop/node_modules/csso/lib/replace1666949226134677413 1
+97/home/orzelekk/Codersy/BestShop/node_modules/@parcel/node-resolver-core/test/fixture/package.json1666949226578670334 0
+69/home/orzelekk/Codersy/BestShop/node_modules/@parcel/utils/test/input1666949226214676136 1
+69/home/orzelekk/Codersy/BestShop/node_modules/node-gyp-build/README.md1666949225558686596 0
+76/home/orzelekk/Codersy/BestShop/node_modules/css-tree/lib/tokenizer/index.js1666949226350673969 0
+67/home/orzelekk/Codersy/BestShop/node_modules/@lezer/lr/package.json1666949225658685002 0
+78/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/features/wav.js1666949226838666189 0
 85/home/orzelekk/Codersy/BestShop/node_modules/@parcel/reporter-dev-server/package.json1666949226042678878 0
 97/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/features/passive-event-listener.js1666949226706668293 0
 82/home/orzelekk/Codersy/BestShop/node_modules/type-fest/source/set-return-type.d.ts1666949225950680346 0
@@ -2085,7 +2090,7 @@
 64/home/orzelekk/Codersy/BestShop/node_modules/browserslist/cli.js1666949224558702545 0
 76/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/regions/BJ.js1666949226130677476 0
 60/home/orzelekk/Codersy/BestShop/node_modules/source-map/dist1666949226002679517 1
-47/home/orzelekk/Codersy/BestShop/dist/index.html1667407429672246936 0
+47/home/orzelekk/Codersy/BestShop/dist/index.html1667663045255774718 0
 90/home/orzelekk/Codersy/BestShop/node_modules/@parcel/transformer-postcss/lib/loadConfig.js1666949224602701842 0
 70/home/orzelekk/Codersy/BestShop/node_modules/csso/lib/replace/index.js1666949226082678241 0
 92/home/orzelekk/Codersy/BestShop/node_modules/@jridgewell/trace-mapping/dist/types/types.d.ts1666949225866681685 0
@@ -2112,7 +2117,7 @@
 68/home/orzelekk/Codersy/BestShop/node_modules/domutils/lib/helpers.js1666949224558702545 0
 64/home/orzelekk/Codersy/BestShop/node_modules/braces/CHANGELOG.md1666949224314706436 0
 75/home/orzelekk/Codersy/BestShop/node_modules/@lmdb/lmdb-linux-x64/README.md1666949224550702672 0
-59/home/orzelekk/Codersy/BestShop/dist/index.574c7455.css.map1667408592916269962 0
+59/home/orzelekk/Codersy/BestShop/dist/index.574c7455.css.map1667663395887961384 0
 79/home/orzelekk/Codersy/BestShop/node_modules/htmlnano/docs/docusaurus.config.js1666949225694684428 0
 94/home/orzelekk/Codersy/BestShop/node_modules/@parcel/source-map/parcel_sourcemap_node/build.js1666949225770683216 0
 87/home/orzelekk/Codersy/BestShop/node_modules/css-select/lib/pseudo-selectors/filters.js1666949225610685767 0
@@ -2138,7 +2143,7 @@
 76/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/regions/GM.js1666949226614669760 0
 76/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/regions/BR.js1666949226150677158 0
 80/home/orzelekk/Codersy/BestShop/node_modules/@jridgewell/source-map/package.json1666949224590702034 0
-43/home/orzelekk/Codersy/BestShop/scss/blocks1667408818883911723 1
+43/home/orzelekk/Codersy/BestShop/scss/blocks1667663395539969140 1
 99/home/orzelekk/Codersy/BestShop/node_modules/@parcel/package-manager/test/fixtures/packages/foo-2.01666949226158677030 1
 59/home/orzelekk/Codersy/BestShop/node_modules/node-addon-api1666949225946680409 1
 86/home/orzelekk/Codersy/BestShop/node_modules/css-tree/lib/syntax/node/AtrulePrelude.js1666949225650685130 0
@@ -2149,7 +2154,7 @@
 77/home/orzelekk/Codersy/BestShop/node_modules/cosmiconfig/dist/ExplorerBase.js1666949224574702289 0
 55/home/orzelekk/Codersy/BestShop/node_modules/braces/lib1666949225690684492 1
 79/home/orzelekk/Codersy/BestShop/node_modules/css-tree/lib/syntax/node/Number.js1666949226426672757 0
-57/home/orzelekk/Codersy/BestShop/scss/general/_mixins.scss1667332817656401427 0
+57/home/orzelekk/Codersy/BestShop/scss/general/_mixins.scss1667661691665926593 0
 86/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/features/customevent.js1666949226566670525 0
 71/home/orzelekk/Codersy/BestShop/node_modules/@babel/highlight/README.md1666949224318706372 0
 82/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/features/netinfo.js1666949226690668548 0
@@ -2170,10 +2175,18 @@
 72/home/orzelekk/Codersy/BestShop/node_modules/css-select/lib/procedure.js1666949225718684046 0
 64/home/orzelekk/Codersy/BestShop/node_modules/picomatch/README.md1666949225730683854 0
 53/home/orzelekk/Codersy/BestShop/node_modules/chokidar1666949225690684492 1
+53/home/orzelekk/Codersy/BestShop/assets/Phone Icon.svg1576595046000000000 0
+70/home/orzelekk/Codersy/BestShop/node_modules/type-fest/ts41/index.d.ts1666949225790682897 0
+51/home/orzelekk/Codersy/BestShop/.idea/workspace.xml1667663307497931058 0
+69/home/orzelekk/Codersy/BestShop/node_modules/terser/lib/propmangle.js1666949226286674989 0
+75/home/orzelekk/Codersy/BestShop/node_modules/cosmiconfig/dist/readFile.d.ts1666949225974679963 0
+62/home/orzelekk/Codersy/BestShop/node_modules/error-ex/index.js1666949224318706372 0
+71/home/orzelekk/Codersy/BestShop/node_modules/nth-check/lib/esm/index.js1666949224590702034 0
+60/home/orzelekk/Codersy/BestShop/node_modules/acorn/bin/acorn1666949224326706244 0
 64/home/orzelekk/Codersy/BestShop/node_modules/yaml/parse-cst.d.ts1666949226130677476 0
 66/home/orzelekk/Codersy/BestShop/node_modules/buffer-from/readme.md1666949224558702545 0
 96/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/features/native-filesystem-api.js1666949226690668548 0
-57/home/orzelekk/Codersy/BestShop/dist/Twitter.41e2b00a.svg1667406115672009718 0
+57/home/orzelekk/Codersy/BestShop/dist/Twitter.41e2b00a.svg1667663045255774718 0
 80/home/orzelekk/Codersy/BestShop/node_modules/yaml/browser/dist/legacy-exports.js1666949225778683089 0
 70/home/orzelekk/Codersy/BestShop/node_modules/domhandler/lib/index.d.ts1666949225650685130 0
 76/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/regions/TJ.js1666949226818666508 0
@@ -2216,7 +2229,7 @@
 76/home/orzelekk/Codersy/BestShop/node_modules/htmlparser2/lib/Parser.d.ts.map1666949225690684492 0
 61/home/orzelekk/Codersy/BestShop/node_modules/is-glob/index.js1666949224314706436 0
 84/home/orzelekk/Codersy/BestShop/node_modules/css-tree/lib/definition-syntax/parse.js1666949226438672566 0
-45/home/orzelekk/Codersy/BestShop/scss/elements1667386845893523556 1
+45/home/orzelekk/Codersy/BestShop/scss/elements1667573242236261673 1
 93/home/orzelekk/Codersy/BestShop/node_modules/@babel/highlight/node_modules/color-name/LICENSE1666949224562702480 0
 56/home/orzelekk/Codersy/BestShop/scss/general/_fonts.scss1667386391151933820 0
 90/home/orzelekk/Codersy/BestShop/node_modules/@parcel/watcher/src/windows/WindowsBackend.cc1666949225842682068 0
@@ -2247,14 +2260,6 @@
 101/home/orzelekk/Codersy/BestShop/node_modules/@parcel/runtime-react-refresh/src/ReactRefreshRuntime.js1666949224578702225 0
 62/home/orzelekk/Codersy/BestShop/node_modules/csso/dist/csso.js1666949225998679580 0
 49/home/orzelekk/Codersy/BestShop/assets/Person.svg1576595046000000000 0
-53/home/orzelekk/Codersy/BestShop/assets/Phone Icon.svg1576595046000000000 0
-70/home/orzelekk/Codersy/BestShop/node_modules/type-fest/ts41/index.d.ts1666949225790682897 0
-51/home/orzelekk/Codersy/BestShop/.idea/workspace.xml1667408792596868807 0
-69/home/orzelekk/Codersy/BestShop/node_modules/terser/lib/propmangle.js1666949226286674989 0
-75/home/orzelekk/Codersy/BestShop/node_modules/cosmiconfig/dist/readFile.d.ts1666949225974679963 0
-62/home/orzelekk/Codersy/BestShop/node_modules/error-ex/index.js1666949224318706372 0
-71/home/orzelekk/Codersy/BestShop/node_modules/nth-check/lib/esm/index.js1666949224590702034 0
-60/home/orzelekk/Codersy/BestShop/node_modules/acorn/bin/acorn1666949224326706244 0
 79/home/orzelekk/Codersy/BestShop/node_modules/css-tree/lib/syntax/pseudo/lang.js1666949226354673905 0
 70/home/orzelekk/Codersy/BestShop/node_modules/terser/lib/utils/index.js1666949226170676838 0
 64/home/orzelekk/Codersy/BestShop/node_modules/yaml/browser/map.js1666949225798682769 0
@@ -2264,7 +2269,7 @@
 66/home/orzelekk/Codersy/BestShop/node_modules/posthtml/lib/index.js1666949224558702545 0
 68/home/orzelekk/Codersy/BestShop/node_modules/posthtml-parser/license1666949224286706883 0
 81/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/browserVersions.js1666949226162676966 0
-59/home/orzelekk/Codersy/BestShop/dist/Mail Icon.b0bc1804.svg1667406115672009718 0
+59/home/orzelekk/Codersy/BestShop/dist/Mail Icon.b0bc1804.svg1667663045255774718 0
 96/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/features/css-media-interaction.js1666949226490671737 0
 72/home/orzelekk/Codersy/BestShop/node_modules/node-addon-api/CHANGELOG.md1666949225946680409 0
 89/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/features/xml-serializer.js1666949226850665998 0
@@ -2278,7 +2283,7 @@
 76/home/orzelekk/Codersy/BestShop/node_modules/@parcel/transformer-postcss/src1666949225678684683 1
 60/home/orzelekk/Codersy/BestShop/node_modules/clone/README.md1666949224558702545 0
 92/home/orzelekk/Codersy/BestShop/node_modules/csso/lib/restructure/prepare/processSelector.js1666949226102677923 0
-57/home/orzelekk/Codersy/BestShop/dist/Macbook.a1f4b436.png1667406115716008779 0
+57/home/orzelekk/Codersy/BestShop/dist/Macbook.a1f4b436.png1667663045267774450 0
 80/home/orzelekk/Codersy/BestShop/node_modules/css-tree/lib/generator/sourceMap.js1666949226470672055 0
 68/home/orzelekk/Codersy/BestShop/node_modules/picocolors/package.json1666949224558702545 0
 76/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/regions/BE.js1666949226098677986 0
@@ -2294,11 +2299,11 @@
 72/home/orzelekk/Codersy/BestShop/node_modules/htmlnano/docs/versions.json1666949226170676838 0
 84/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/features/vibration.js1666949226834666253 0
 85/home/orzelekk/Codersy/BestShop/node_modules/@swc/helpers/src/_async_to_generator.mjs1666949226210676201 0
-56/home/orzelekk/Codersy/BestShop/scss/blocks/_footer.scss1666951527267962501 0
+56/home/orzelekk/Codersy/BestShop/scss/blocks/_footer.scss1667409445545700347 0
 108/home/orzelekk/Codersy/BestShop/node_modules/@parcel/core/test/fixtures/invalid-source-not-file/package.json1666949226806666699 0
 61/home/orzelekk/Codersy/BestShop/node_modules/entities/LICENSE1666949224278707010 0
 92/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/features/css-width-stretch.js1666949226554670717 0
-42/home/orzelekk/Codersy/BestShop/index.html1667407429516248183 0
+42/home/orzelekk/Codersy/BestShop/index.html1667662265369150949 0
 71/home/orzelekk/Codersy/BestShop/node_modules/@lezer/lr/dist/decode.d.ts1666949225714684109 0
 89/home/orzelekk/Codersy/BestShop/node_modules/@msgpackr-extract/msgpackr-extract-linux-x641666949225638685321 1
 94/home/orzelekk/Codersy/BestShop/node_modules/@parcel/hash/parcel-hash.linux-arm-gnueabihf.node1666949226062678560 0
@@ -2355,9 +2360,15 @@
 94/home/orzelekk/Codersy/BestShop/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mtest3.c1666949226310674606 0
 70/home/orzelekk/Codersy/BestShop/node_modules/is-arrayish/.istanbul.yml1666949224598701906 0
 70/home/orzelekk/Codersy/BestShop/node_modules/supports-color/browser.js1666949224326706244 0
+97/home/orzelekk/Codersy/BestShop/node_modules/@babel/helper-validator-identifier/lib/identifier.js1666949224558702545 0
+98/home/orzelekk/Codersy/BestShop/node_modules/lmdb/node_modules/node-addon-api/package-support.json1666949225930680664 0
+50/home/orzelekk/Codersy/BestShop/assets/Macbook.png1576595046000000000 0
+91/home/orzelekk/Codersy/BestShop/node_modules/@parcel/core/src/requests/ValidationRequest.js1666949226558670652 0
+97/home/orzelekk/Codersy/BestShop/node_modules/@parcel/utils/test/input/sourcemap/referenced-min.js1666949226266675308 0
+80/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/features/meter.js1666949226674668803 0
 93/home/orzelekk/Codersy/BestShop/node_modules/lmdb/node_modules/node-addon-api/tools/README.md1666949225966680090 0
 69/home/orzelekk/Codersy/BestShop/node_modules/@parcel/packager-css/lib1666949224318706372 1
-56/home/orzelekk/Codersy/BestShop/dist/iPhone.18df9ac3.png1667406115720008693 0
+56/home/orzelekk/Codersy/BestShop/dist/iPhone.18df9ac3.png1667663045271774361 0
 75/home/orzelekk/Codersy/BestShop/node_modules/@swc/helpers/lib/_ts_values.js1666949226134677413 0
 114/home/orzelekk/Codersy/BestShop/node_modules/@parcel/node-resolver-core/test/fixture/packages/source-alias/dist.js1666949226042678878 0
 96/home/orzelekk/Codersy/BestShop/node_modules/@babel/highlight/node_modules/has-flag/package.json1666949224310706500 0
@@ -2382,7 +2393,7 @@
 76/home/orzelekk/Codersy/BestShop/node_modules/cosmiconfig/dist/loaders.js.map1666949225866681685 0
 66/home/orzelekk/Codersy/BestShop/node_modules/terser/tools/exit.cjs1666949225546686788 0
 91/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/features/web-app-manifest.js1666949226838666189 0
-36/home/orzelekk/Codersy/BestShop/scss1667389194661112635 1
+36/home/orzelekk/Codersy/BestShop/scss1667571397752278146 1
 84/home/orzelekk/Codersy/BestShop/node_modules/@parcel/utils/test/input/config/.testrc1666949224562702480 0
 76/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/regions/PM.js1666949226714668165 0
 68/home/orzelekk/Codersy/BestShop/node_modules/node-gyp-build/index.js1666949224562702480 0
@@ -2465,17 +2476,6 @@
 84/home/orzelekk/Codersy/BestShop/node_modules/csso/lib/replace/property/background.js1666949225838682132 0
 70/home/orzelekk/Codersy/BestShop/node_modules/@parcel/optimizer-css/src1666949224562702480 1
 65/home/orzelekk/Codersy/BestShop/node_modules/picocolors/README.md1666949224570702353 0
-73/home/orzelekk/Codersy/BestShop/node_modules/@parcel/transformer-posthtml1666949224638701268 1
-83/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/features/css-grid.js1666949226466672120 0
-61/home/orzelekk/Codersy/BestShop/node_modules/csso/lib/replace1666949226134677413 1
-101/home/orzelekk/Codersy/BestShop/node_modules/@babel/helper-validator-identifier/lib/identifier.js.map1666949224598701906 0
-75/home/orzelekk/Codersy/BestShop/node_modules/lines-and-columns/package.json1666949224558702545 0
-97/home/orzelekk/Codersy/BestShop/node_modules/@parcel/node-resolver-core/test/fixture/package.json1666949226578670334 0
-69/home/orzelekk/Codersy/BestShop/node_modules/@parcel/utils/test/input1666949226214676136 1
-69/home/orzelekk/Codersy/BestShop/node_modules/node-gyp-build/README.md1666949225558686596 0
-76/home/orzelekk/Codersy/BestShop/node_modules/css-tree/lib/tokenizer/index.js1666949226350673969 0
-67/home/orzelekk/Codersy/BestShop/node_modules/@lezer/lr/package.json1666949225658685002 0
-78/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/features/wav.js1666949226838666189 0
 60/home/orzelekk/Codersy/BestShop/node_modules/chalk/readme.md1666949225578686278 0
 123/home/orzelekk/Codersy/BestShop/node_modules/@parcel/source-map/parcel_sourcemap_node/artifacts/index.linux-arm64-musl.node1666949226454672311 0
 91/home/orzelekk/Codersy/BestShop/node_modules/css-select/lib/pseudo-selectors/index.d.ts.map1666949225874681558 0
@@ -2485,7 +2485,7 @@
 56/home/orzelekk/Codersy/BestShop/node_modules/timsort/src1666949225614685704 1
 87/home/orzelekk/Codersy/BestShop/node_modules/lmdb/node_modules/node-addon-api/README.md1666949225958680219 0
 81/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/features/webnfc.js1666949226842666125 0
-53/home/orzelekk/Codersy/BestShop/dist/Eye.e60e75e7.svg1667406115672009718 0
+53/home/orzelekk/Codersy/BestShop/dist/Eye.e60e75e7.svg1667663045255774718 0
 93/home/orzelekk/Codersy/BestShop/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/tooltag1666949225938680537 0
 54/home/orzelekk/Codersy/BestShop/node_modules/csso/dist1666949225998679580 1
 78/home/orzelekk/Codersy/BestShop/node_modules/csso/lib/replace/property/font.js1666949226066678496 0
@@ -2494,7 +2494,7 @@
 70/home/orzelekk/Codersy/BestShop/node_modules/resolve-from/package.json1666949224286706883 0
 77/home/orzelekk/Codersy/BestShop/node_modules/@parcel/source-map/dist/utils.js1666949225930680664 0
 75/home/orzelekk/Codersy/BestShop/node_modules/postcss-value-parser/README.md1666949225614685704 0
-61/home/orzelekk/Codersy/BestShop/scss/general/_typography.scss1667386683353247409 0
+61/home/orzelekk/Codersy/BestShop/scss/general/_typography.scss1667570114120725893 0
 99/home/orzelekk/Codersy/BestShop/node_modules/react-refresh/cjs/react-refresh-runtime.development.js1666949225614685704 0
 76/home/orzelekk/Codersy/BestShop/node_modules/@parcel/core/test/utils.test.js1666949226554670717 0
 102/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/features/url-scroll-to-text-fragment.js1666949226826666380 0
@@ -2631,7 +2631,7 @@
 83/home/orzelekk/Codersy/BestShop/node_modules/css-tree/lib/syntax/node/StyleSheet.js1666949226474671992 0
 69/home/orzelekk/Codersy/BestShop/node_modules/lmdb/src/compression.cpp1666949226386673394 0
 72/home/orzelekk/Codersy/BestShop/node_modules/lightningcss-linux-x64-musl1666949224318706372 1
-58/home/orzelekk/Codersy/BestShop/dist/Facebook.389b15e8.svg1667406115672009718 0
+58/home/orzelekk/Codersy/BestShop/dist/Facebook.389b15e8.svg1667663045255774718 0
 74/home/orzelekk/Codersy/BestShop/node_modules/domhandler/lib/index.d.ts.map1666949225542686852 0
 87/home/orzelekk/Codersy/BestShop/node_modules/lmdb/dependencies/lz4/lib/liblz4-dll.rc.in1666949226506671482 0
 86/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/features/blobbuilder.js1666949226130677476 0
@@ -2745,12 +2745,15 @@
 61/home/orzelekk/Codersy/BestShop/node_modules/parcel/README.md1666949225686684555 0
 74/home/orzelekk/Codersy/BestShop/node_modules/weak-lru-cache/LRFUExpirer.js1666949224610701714 0
 71/home/orzelekk/Codersy/BestShop/node_modules/svgo/plugins/cleanupIDs.js1666949225770683216 0
-60/home/orzelekk/Codersy/BestShop/dist/Phone Icon.b10af3a5.svg1667406115672009718 0
+60/home/orzelekk/Codersy/BestShop/dist/Phone Icon.b10af3a5.svg1667663045255774718 0
 70/home/orzelekk/Codersy/BestShop/node_modules/import-fresh/package.json1666949224358705734 0
 80/home/orzelekk/Codersy/BestShop/node_modules/css-tree/lib/syntax/atrule/media.js1666949226390673331 0
 71/home/orzelekk/Codersy/BestShop/node_modules/@parcel/core/lib/Parcel.js1666949226394673267 0
 61/home/orzelekk/Codersy/BestShop/dist/Checkmark-1.22a0eaf4.svg1667405720108308500 0
 86/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/features/user-timing.js1666949226830666316 0
+78/home/orzelekk/Codersy/BestShop/node_modules/cosmiconfig/dist/loaders.d.ts.map1666949225854681877 0
+96/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/features/link-rel-dns-prefetch.js1666949226654669123 0
+81/home/orzelekk/Codersy/BestShop/node_modules/css-tree/lib/syntax/atrule/import.js1666949226278675116 0
 65/home/orzelekk/Codersy/BestShop/node_modules/is-glob/package.json1666949224342705989 0
 96/home/orzelekk/Codersy/BestShop/node_modules/posthtml/node_modules/posthtml-parser/dist/index.js1666949224562702480 0
 76/home/orzelekk/Codersy/BestShop/node_modules/@parcel/core/src/Environment.js1666949226250675563 0
@@ -2974,7 +2977,7 @@
 51/home/orzelekk/Codersy/BestShop/node_modules/terser1666949226366673714 1
 90/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/features/form-validation.js1666949226606669888 0
 108/home/orzelekk/Codersy/BestShop/node_modules/@parcel/node-resolver-core/test/fixture/packages/source/dist.js1666949226066678496 0
-61/home/orzelekk/Codersy/BestShop/dist/BestShop.3464ddca.js.map1667406115696009206 0
+61/home/orzelekk/Codersy/BestShop/dist/BestShop.3464ddca.js.map1667663045279774183 0
 92/home/orzelekk/Codersy/BestShop/node_modules/@parcel/transformer-posthtml/lib/loadPlugins.js1666949224358705734 0
 80/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/regions/alt-na.js1666949225890681303 0
 57/home/orzelekk/Codersy/BestShop/scss/general/_colors.scss1667386216029262368 0
@@ -2984,11 +2987,6 @@
 58/home/orzelekk/Codersy/BestShop/node_modules/dotenv-expand1666949224562702480 1
 96/home/orzelekk/Codersy/BestShop/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mdb_copy.11666949225946680409 0
 65/home/orzelekk/Codersy/BestShop/node_modules/node-addon-api/tools1666949225962680155 1
-96/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/features/link-rel-dns-prefetch.js1666949226654669123 0
-81/home/orzelekk/Codersy/BestShop/node_modules/css-tree/lib/syntax/atrule/import.js1666949226278675116 0
-78/home/orzelekk/Codersy/BestShop/node_modules/cosmiconfig/dist/loaders.d.ts.map1666949225854681877 0
-81/home/orzelekk/Codersy/BestShop/node_modules/@jridgewell/gen-mapping/src/types.ts1666949225830682260 0
-79/home/orzelekk/Codersy/BestShop/node_modules/htmlnano/lib/modules/minifyJson.js1666949225822682387 0
 77/home/orzelekk/Codersy/BestShop/node_modules/terser/lib/compress/inference.js1666949226198676391 0
 61/home/orzelekk/Codersy/BestShop/node_modules/json5/lib/cli.js1666949224330706181 0
 56/home/orzelekk/Codersy/BestShop/node_modules/detect-libc1666949225538686915 1
@@ -3031,6 +3029,9 @@
 54/home/orzelekk/Codersy/BestShop/node_modules/picomatch1666949225702684301 1
 76/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/regions/GN.js1666949226614669760 0
 57/home/orzelekk/Codersy/BestShop/node_modules/mdn-data/api1666949225822682387 1
+60/home/orzelekk/Codersy/BestShop/node_modules/tslib/README.md1666949225650685130 0
+75/home/orzelekk/Codersy/BestShop/node_modules/@parcel/core/src/Dependency.js1666949226206676264 0
+62/home/orzelekk/Codersy/BestShop/node_modules/yaml/dist/util.js1666949226090678113 0
 64/home/orzelekk/Codersy/BestShop/node_modules/nth-check/README.md1666949225810682578 0
 87/home/orzelekk/Codersy/BestShop/node_modules/json-parse-even-better-errors/package.json1666949224318706372 0
 75/home/orzelekk/Codersy/BestShop/node_modules/yaml/dist/warnings-1000a372.js1666949226098677986 0
@@ -3181,7 +3182,7 @@
 96/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/features/requestanimationframe.js1666949226722668038 0
 83/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/features/bloburls.js1666949226134677413 0
 90/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/features/document-policy.js1666949226582670270 0
-57/home/orzelekk/Codersy/BestShop/dist/BestShop.3464ddca.js1667406115676009633 0
+57/home/orzelekk/Codersy/BestShop/dist/BestShop.3464ddca.js1667663045267774450 0
 76/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/regions/MR.js1666949226682668676 0
 75/home/orzelekk/Codersy/BestShop/node_modules/sass/types/value/function.d.ts1666949226550670780 0
 92/home/orzelekk/Codersy/BestShop/node_modules/htmlnano/lib/modules/sortAttributesWithLists.js1666949225942680474 0
@@ -3281,7 +3282,7 @@
 108/home/orzelekk/Codersy/BestShop/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/sample-bdb.txt1666949226566670525 0
 75/home/orzelekk/Codersy/BestShop/node_modules/lightningcss/node/targets.d.ts1666949225678684683 0
 90/home/orzelekk/Codersy/BestShop/node_modules/abortcontroller-polyfill/dist/umd-polyfill.js1666949225782683024 0
-55/home/orzelekk/Codersy/BestShop/dist/Close.22110c7d.svg1667406115672009718 0
+55/home/orzelekk/Codersy/BestShop/dist/Close.22110c7d.svg1667663045255774718 0
 76/home/orzelekk/Codersy/BestShop/node_modules/lightningcss/node/index.js.flow1666949224358705734 0
 95/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/features/font-variant-numeric.js1666949226606669888 0
 73/home/orzelekk/Codersy/BestShop/node_modules/lightningcss/node/index.d.ts1666949225630685449 0
@@ -3351,7 +3352,7 @@
 75/home/orzelekk/Codersy/BestShop/node_modules/immutable/dist/immutable.es.js1666949225730683854 0
 93/home/orzelekk/Codersy/BestShop/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mtest.c1666949226298674798 0
 74/home/orzelekk/Codersy/BestShop/node_modules/immutable/dist/immutable.d.ts1666949225978679900 0
-36/home/orzelekk/Codersy/BestShop/dist1667408592916269962 1
+36/home/orzelekk/Codersy/BestShop/dist1667663395891961296 1
 82/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/features/details.js1666949226578670334 0
 79/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/features/woff.js1666949226850665998 0
 75/home/orzelekk/Codersy/BestShop/node_modules/type-fest/source/asyncify.d.ts1666949225546686788 0
@@ -3537,7 +3538,7 @@
 82/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/features/gamepad.js1666949226606669888 0
 79/home/orzelekk/Codersy/BestShop/node_modules/dom-serializer/lib/foreignNames.js1666949224626701459 0
 50/home/orzelekk/Codersy/BestShop/node_modules/chalk1666949225578686278 1
-31/home/orzelekk/Codersy/BestShop1667407429520248151 1
+31/home/orzelekk/Codersy/BestShop1667662265369150949 1
 88/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/features/notifications.js1666949226694668485 0
 73/home/orzelekk/Codersy/BestShop/node_modules/posthtml/types/posthtml.d.ts1666949225546686788 0
 78/home/orzelekk/Codersy/BestShop/node_modules/dom-serializer/lib/index.d.ts.map1666949225718684046 0
@@ -3890,7 +3891,7 @@
 89/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/features/input-datetime.js1666949226634669441 0
 97/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/features/contentsecuritypolicy2.js1666949226330674287 0
 92/home/orzelekk/Codersy/BestShop/node_modules/@parcel/transformer-html/src/HTMLTransformer.js1666949225574686341 0
-56/home/orzelekk/Codersy/BestShop/scss/blocks/_header.scss1667388764662748962 0
+56/home/orzelekk/Codersy/BestShop/scss/blocks/_header.scss1667570455213224678 0
 61/home/orzelekk/Codersy/BestShop/node_modules/chalk/index.d.ts1666949225618685640 0
 92/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/features/namevalue-storage.js1666949226686668612 0
 90/home/orzelekk/Codersy/BestShop/node_modules/@swc/helpers/src/_class_private_field_get.mjs1666949226250675563 0
@@ -4105,8 +4106,8 @@
 76/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/regions/MP.js1666949226678668740 0
 129/home/orzelekk/Codersy/BestShop/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/side-effects-false/package.json1666949226554670717 0
 82/home/orzelekk/Codersy/BestShop/node_modules/@parcel/core/test/Environment.test.js1666949226262675371 0
-70/home/orzelekk/Codersy/BestShop/node_modules/dotenv/lib/env-options.js1666949225602685895 0
 76/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/regions/PT.js1666949226718668102 0
+70/home/orzelekk/Codersy/BestShop/node_modules/dotenv/lib/env-options.js1666949225602685895 0
 78/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/features/sni.js1666949226730667910 0
 96/home/orzelekk/Codersy/BestShop/node_modules/@jridgewell/trace-mapping/dist/types/by-source.d.ts1666949225810682578 0
 85/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/features/es6-number.js1666949226594670079 0
@@ -4249,7 +4250,7 @@
 65/home/orzelekk/Codersy/BestShop/node_modules/@parcel/core/LICENSE1666949225918680856 0
 92/home/orzelekk/Codersy/BestShop/node_modules/@parcel/package-manager/src/NodeResolverBase.js1666949226078678305 0
 70/home/orzelekk/Codersy/BestShop/node_modules/@parcel/utils/src/glob.js1666949225870681621 0
-60/home/orzelekk/Codersy/BestShop/dist/Background.96fc9b9b.png1667406115720008693 0
+60/home/orzelekk/Codersy/BestShop/dist/Background.96fc9b9b.png1667663045271774361 0
 76/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/regions/MD.js1666949226670668867 0
 76/home/orzelekk/Codersy/BestShop/node_modules/caniuse-lite/data/regions/IE.js1666949226626669568 0
 74/home/orzelekk/Codersy/BestShop/node_modules/sass/types/legacy/render.d.ts1666949226566670525 0

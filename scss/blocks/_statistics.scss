@@ -1,37 +1,41 @@
 .statistics {
   margin-top: 100px;
   @include mobile {
-    height: auto;
+    margin-top: 50px;
   }
-}
-h2 {
-  font-family: $font-raleway;
-  font-size: 2.25rem;
-  text-align: center;
-  @include mobile {
-    margin-top: 50px
+  &_title {
+    text-align: center;
   }
-}
-.statistics_container {
-  display: flex;
-  max-width: 800px;
-  justify-content: space-between;
-  margin: 101px auto 120px;
-  @include mobile {
-    margin: 35px auto 50px;
+  &_container {
+    display: flex;
+    max-width: 800px;
+    justify-content: space-between;
+    margin: 101px auto 120px;
+    @include mobile {
+      margin: 35px auto 50px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+  }
+  &_single {
+    max-width: 160px;
     display: flex;
     flex-direction: column;
+    justify-items: flex-start;
     align-items: center;
+    text-align: center;
+    @include mobile {
+      margin-bottom: 30px;
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
   }
 }
-.statistics_single {
-  max-width: 160px;
-  display: flex;
-  flex-direction: column;
-  justify-items: flex-start;
-  align-items: center;
-  text-align: center;
-}
+
+
+
 .statistics_circle {
   height: 62px;
   width: 62px;

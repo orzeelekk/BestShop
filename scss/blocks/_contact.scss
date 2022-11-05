@@ -2,9 +2,17 @@
   display: flex;
   justify-content: center;
   padding: 80px 100px 100px;
+  @include tablet {
+    flex-direction: column;
+    align-items: center;
+    padding: 53px 35px;
+  }
 
   &_column {
     width: 50%;
+    @include tablet {
+      width: 100%;
+    }
   }
 
   &_title {
@@ -16,15 +24,25 @@
   &_instruction {
     margin: 22px 0 42px;
     line-height: 1.375rem;
+    @include tablet {
+      margin: 5px 0 35px;
+    }
+
   }
 
   &_details {
     display: flex;
+    @include mobile {
+      flex-direction: column;
+    }
 
     .details_item {
       color: $color-grey;
       font-weight: 500;
       text-decoration: none;
+      @include mobile {
+        margin-bottom: 15px;
+      }
 
       &:first-of-type {
         margin-right: 20px;
@@ -39,6 +57,9 @@
 .form {
   display: flex;
   flex-direction: column;
+  @include tablet {
+    margin-top: 50px;
+  }
 
   &_field:first-of-type {
     margin-bottom: 42px;

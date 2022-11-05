@@ -56,10 +56,6 @@
   .menu {
     &_btn {
       display: none;
-      opacity: 0;
-      position: absolute;
-      top: -99999px;
-      left: -99999px;
       @include mobile {
         &:checked {
           ~ .header_nav {
